@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Teo
-
-- Porfolio: matrodriguezpa.github.io/portfolio/
+- My name is Mateo. I'm familiar with building desktop and full-stack web applications using Spring, React, and AWS, MVC and layered architectures, REST APIs, and databases like SQLite and MySQL.
+- Checkout my porfolio: https://matrodriguezpa.github.io/portfolio/
