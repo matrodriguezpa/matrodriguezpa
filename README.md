@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Teo
 
-- Porfolio: https://matrodriguezpa.github.io/portfolio/
+- Porfolio: matrodriguezpa.github.io/portfolio/
