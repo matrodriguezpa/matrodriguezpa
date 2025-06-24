@@ -3,4 +3,6 @@
 - Checkout my [projects porfolio](https://matrodriguezpa.github.io/portfolio/).
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrodriguezpa&show_icons=true&hide=issues)](https://github.com/SrGobi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodriguezpa&layout=compact)](https://github.com/SrGobi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrodriguezpa&show_icons=true&hide=issues)](https://github.com/SrGobi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodriguezpa&layout=compact)](https://github.com/SrGobi/github-readme-stats)
